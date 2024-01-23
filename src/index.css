@@ -1,5 +1,7 @@
 * {
   box-sizing: border-box;
+  /* transition-property:all; */
+  /* transition:1s; */
 }
 
 body {
